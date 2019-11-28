@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-reorder</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="admin-invoice-details-awaiting-auction-step2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-125.000000, -940.000000)">
+        <g id="Group-10" transform="translate(125.000000, 940.000000)" stroke="#5CA0F6" stroke-width="2">
+            <g id="Group-11">
+                <g id="Group-8" transform="translate(14.500000, 15.500000) rotate(-270.000000) translate(-14.500000, -15.500000) translate(3.000000, 8.000000)">
+                    <g id="Page-1-Copy-3" transform="translate(0.000000, 1.000000)">
+                        <path d="M4.9571,13 L4.97855,0" id="Stroke-1"></path>
+                        <polyline id="Stroke-4" points="0 9 5 14 10 9"></polyline>
+                    </g>
+                    <g id="Page-1-Copy-4" transform="translate(13.000000, 0.000000)">
+                        <path d="M4.9571,14 L4.97855,1" id="Stroke-1"></path>
+                        <polyline id="Stroke-4" points="0 5 5 0 10 5"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 2017,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true,
+      "modules": true,
+      "experimentalObjectRestSpread" : true
+    }
+  },
+  "rules": {
+    "jsx-a11y/href-no-hash": "off"
+  }
+}
